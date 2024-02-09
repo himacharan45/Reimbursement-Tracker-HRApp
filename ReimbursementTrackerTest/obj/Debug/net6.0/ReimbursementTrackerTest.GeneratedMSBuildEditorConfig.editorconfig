@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ReimbursementTrackerTest
-build_property.ProjectDir = C:\Users\2000112352\Downloads\Project\Reimbursement-Tracker-HRApp-master\ReimbursementTrackerTest\
+build_property.ProjectDir = C:\Users\2000112467\OneDrive - Hexaware Technologies\Project\Reimbursement-Tracker-HRApp\ReimbursementTrackerTest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
